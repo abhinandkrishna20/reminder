@@ -71,7 +71,7 @@ The application uses modular CSS files for styling, including:
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/daily-task-reminder.git
+   git clone [https://github.com/your-repo/daily-task-reminder.git](https://github.com/abhinandkrishna20/reminder)
    cd daily-task-reminder
    ```
 2. Install dependencies:
