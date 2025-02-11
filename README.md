@@ -4,7 +4,7 @@
 The **Daily Task Reminder** is a simple React application that displays a calendar, allowing users to select a date and add tasks for that day. Tasks are stored in a global state and displayed when a user clicks on a specific date.
 
 ## Live Demo
-[abhinandkrishna20.github.io/reminder/](abhinandkrishna20.github.io/reminder/)
+[https://abhinandkrishna20.github.io/reminder/](https://abhinandkrishna20.github.io/reminder/)
 
 ## Features
 - **Calendar View**: Displays the current month, with today’s date highlighted.
